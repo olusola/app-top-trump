@@ -1,5 +1,4 @@
 // import { HistoryState } from '../helper/constants';
-
 const init = {
         history: []
 }
